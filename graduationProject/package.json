@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.10",
+    "@types/node-cron": "^3.0.11",
+    "@types/ws": "^8.5.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "scripts": {
+    "start server": "ts-node server/server.ts",
+    "start client": "ts-node client/client.ts"
+  },
+  "dependencies": {
+    "@types/sentiment": "^5.0.4",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.2",
+    "node-cron": "^3.0.3",
+    "sentiment": "^5.0.2",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "ws": "^8.17.0"
+  }
+}
