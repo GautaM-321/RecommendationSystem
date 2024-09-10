@@ -1,1 +1,1 @@
-# RecommendationSystem
+This Repo consist of a projecy which recommends food items in office cafteria accordingly ,by taking the feedback from employees and taking comments sentiments and rating will help chef to understand which food is more likable
